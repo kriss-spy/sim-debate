@@ -1,4 +1,4 @@
-# 需要下载源码
+# 需要下载 zhipullm.py, zhipuai_embedding.py
 from zhipuai_llm import ZhipuAILLM
 
 
